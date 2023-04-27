@@ -20,6 +20,8 @@ In a **clean** environment:
 
     $ pip install modbamtools
 
+Need to add another way to download.
+
 ## Usage
 
 General commands:
