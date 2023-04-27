@@ -15,12 +15,19 @@ For full documentation and tutorials visit https://rrazaghi.github.io/modbamtool
 
 **<em>Required</em>**: Python 3.8
 
+### Python venv
 In a **clean** environment: 
 
 
     $ pip install modbamtools
 
-Need to add another way to download.
+Note: this install method appears to have issues with the hdbscan package (4/27/24)
+
+### Conda
+
+    $ conda create --name modbamtools python=3.8
+    $ conda activate modbamtools
+    $ python -m pip install modbamtools
 
 ## Usage
 
