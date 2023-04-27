@@ -21,7 +21,7 @@ In a **clean** environment:
 
     $ pip install modbamtools
 
-Note: this install method appears to have issues with the hdbscan package (4/27/24)
+Note: this install method appears to have issues with the hdbscan package (4/27/23)
 
 ### Conda
 
